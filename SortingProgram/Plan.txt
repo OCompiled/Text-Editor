@@ -1,0 +1,27 @@
+Building Question Answers
+
+1. What are the input data?
+-- Input data is going to be a Text file.
+
+2. What are the sources of input data?
+--- The user will be providing that data VI the GUI
+
+3. What are the output data
+--- The file is displayed, and is sorted alphabetically, in ASCD and DSCD order
+--- File is edited, and file is saved
+
+4. What are the destionation of the output
+---- The GUI window
+
+5. How to convert the input to output?
+---- Reading, and Sorting thru the File.
+
+------------------------------------------------------------------------------------------------------------------
+Breakdown
+
+1) Create the display area {DONE}
+2) Figure out how to read a file
+3) Figure out how to display a file that is read
+4) How to sort the file with a button
+5) How to arrange the sort in accending and descending order
+6)
